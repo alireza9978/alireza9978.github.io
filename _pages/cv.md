@@ -11,35 +11,35 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+  <ul>{% for post in site.educations %}
+    {% include archive-single.html %}
+  {% endfor %}</ul>
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 2020-Now: Undergraduate Research Assistant
+  * Ferdowsi, Mashhad, Iran, IP-PBX Lab
+  * I researched and developed several anomaly detection methods in power consumption data. 
+  * I worked with a team on designing and developing an anomaly detection platform as a service. 
+  * Gained experience in machine learning, deep learning, data mining and big data handling with working under the supervision of Dr. Mohammadhossein Yaghmaei Moghadam.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2018: Nexus Team Member
+  * Ferdowsi, Mashhad, Iran
+  * Ferdowsi's robocup soccer simulation team member.
+  * Participation in RoboCup Asia-Pacific 2018 as Nexus2D team member.
   
+* 2019-2020: AI Developer
+  * AITrends, Mashhad, Iran
+  * I worked in Aitrends Company as an AI developer.
+  * We had implemented several services with an excellent team, such as handwriting recognition service and House Pricing.
+
+* 2018-2019: Android Developer
+  * AITrends, Mashhad, Iran
+  * I worked in Aitrends Company as an Android developer with an excellent team on several projects.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  {% include skills-cv.html %}
 
 Publications
 ======
@@ -47,18 +47,14 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
   
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
 Teaching
 ======
   <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Projects
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
