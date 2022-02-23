@@ -17,43 +17,44 @@ Education
 
 Work experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2020-Now: Undergraduate Research Assistant
+  * Ferdowsi, Mashhad, Iran, IP-PBX Lab
+  * I researched and developed several anomaly detection methods in power consumption data. 
+  * I worked with a team on designing and developing an anomaly detection platform as a service. 
+  * Gained experience in machine learning, deep learning, data mining and big data handling with working under the supervision of Dr. Mohammadhossein Yaghmaei Moghadam.
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2018: Nexus Team Member
+  * Ferdowsi, Mashhad, Iran
+  * Ferdowsi's robocup soccer simulation team member.
+  * Participation in RoboCup Asia-Pacific 2018 as Nexus2D team member.
   
+* 2019-2020: AI Developer
+  * AITrends, Mashhad, Iran
+  * I worked in Aitrends Company as an AI developer.
+  * We had implemented several services with an excellent team, such as handwriting recognition service and House Pricing.
+
+* 2018-2019: Android Developer
+  * AITrends, Mashhad, Iran
+  * I worked in Aitrends Company as an Android developer with an excellent team on several projects.
+
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+  {% include skills-cv.html %}
 
 Publications
 ======
-  <ul>{% for post in site.publications %}
+  <ul>{% for post in site.publications reversed %}
     {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
   {% endfor %}</ul>
   
 Teaching
 ======
-  <ul>{% for post in site.teaching %}
+  <ul>{% for post in site.teaching reversed %}
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
-  
-Service and leadership
+
+Projects
 ======
-* Currently signed in to 43 different slack teams
+  <ul>{% for post in site.projects reversed %}
+    {% include archive-single-cv.html %}
+  {% endfor %}</ul>
