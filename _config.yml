@@ -85,14 +85,13 @@ analytics:
 author:
   name             : "Alireza Rahimi"
   avatar           : "profile.png"
-  bio              : "Computer Engineer"
+  bio              : # "Computer Engineer"
   location         : "Iran, Mashhad"
   employer         :
-  publons          : "https://publons.com/researcher/4212880/alireza-rahimi/"
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   googlescholar    : "https://scholar.google.com/citations?user=sZAedo0AAAAJ&hl=en"
   email            : rahimialireza.az@gmail.com
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :  "https://www.researchgate.net/profile/Alireza-Rahimi-18"
   uri              :
   bitbucket        :
   codepen          :
