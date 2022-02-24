@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-  <ul>{% for post in site.educations %}
+  <ul>{% for post in site.educations reversed %}
     {% include archive-single.html %}
   {% endfor %}</ul>
 
