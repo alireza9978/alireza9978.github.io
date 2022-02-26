@@ -2,7 +2,7 @@
 title: "Diploma in Mathematics and Physics"
 collection: educations
 type: "Hasheminejad High school"
-permalink: /education/high_school
+permalink: /educations/high_school
 venue: "Mashhad"
 date: 2017-09-22
 location: "Iran"

@@ -2,7 +2,7 @@
 title: "B.Sc. in Computer Engineering"
 collection: educations
 type: "Ferdowsi University of Mashhad"
-permalink: /education/bachlor-of-science
+permalink: /educations/bachlor-of-science
 venue: "Mashhad"
 date: 2022-09-22
 location: "Iran"
