@@ -10,4 +10,4 @@ link: "https://github.com/alireza9978/parallel_gwo"
 ---
 
 We implemented the gray wolf algorithm based on [this](https://www.sciencedirect.com/science/article/abs/pii/S0965997813001853) paper with both python and c for the Concurrent Programming
-course. Also, we used the OpenMP to make the C programme parallel.
+course. Also, we used the OpenMP to make the C program parallel.
