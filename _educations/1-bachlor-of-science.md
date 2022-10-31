@@ -8,8 +8,8 @@ date: 2022-09-22
 location: "Iran"
 ---
 
-• Last Two Year GPA: **19.30**/20 <br>
-• Total GPA(134 course units): **17.97**/20 <br>
+• Last Two Year GPA: **19.32**/20 <br>
+• Total GPA(140 course units): **18.03**/20 <br>
 • One of the best universities in Iran <br>
 • University Rankings: 
 [THE](https://www.timeshighereducation.com/world-university-rankings/ferdowsi-university-mashhad),
