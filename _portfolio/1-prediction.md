@@ -1,6 +1,6 @@
 ---
 title: "Power consumption prediction"
-excerpt: "Power prediction system powered by Data Managenet system<br/> <br/> <img src='/images/prediction-porfolio.png'>"
+excerpt: "An online power prediction system<br/> <br/> <img src='/images/prediction-porfolio.png'>"
 collection: portfolio
 ---
 • Developed a platform to predict power consumption of real users created using Python<br/>
