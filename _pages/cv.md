@@ -37,6 +37,14 @@ Work experience
   * AITrends, Mashhad, Iran
   * I worked in Aitrends Company as an Android developer with an excellent team on several projects.
 
+Extracurricular Activity
+======
+
+* 2022: Executive Committee Member
+  * International Conference On Smart Cities, Internet of Things & Applications (<a href="https://sciot2022.um.ac.ir/Home/Committe?id=3">Link</a>)
+  * Ferdowsi, Mashhad, Iran
+
+
 Skills
 ======
   {% include skills-cv.html %}
