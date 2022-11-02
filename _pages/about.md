@@ -12,4 +12,4 @@ I'm a bachelor's student of Computer Engineering at Ferdowsi University. Artific
 
 Currently, I am researching Missing Value Handling with deep learning models in power consumption. Also, I am the manager of the power consumption prediction project under the supervision of Dr. Yagmae Moghadam.
 
-I am interested in pattern recognition and anomaly detection in time series.
+I am interested in Machine learning and Deep learning.
