@@ -2,6 +2,7 @@
 title: "Achieving Pareto Optimality using Efficient Parameter Reduction for DNNs in Resource-Constrained Edge Environment"
 collection: publications
 permalink: /publication/pareto-optimality
+excerpt: This paper presents an optimized Deep Neural Network based on Xception that reduces memory usage without sacrificing accuracy, enabling efficient on-device training in resource-constrained environments
 date: 2024-03-14
 venue: 'Canadian AI 2024'
 paperurl: 'https://arxiv.org/abs/2403.10569'
