@@ -8,10 +8,11 @@ date: 2022-09-22
 location: "Iran"
 ---
 
-• GPA: **4.3**/4.3 <br>
+• Last Two Year GPA: **19.32**/20 <br>
+• Total GPA(140 course units): **18.03**/20 <br>
 • One of the best universities in Iran <br>
 • University Rankings: 
-[THE](https://www.timeshighereducation.com/world-university-rankings/university-new-brunswick-unb),
-[QS](https://www.topuniversities.com/university-new-brunswick/computer-science-mcsc),
-[USNWR](https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973) <br>
-• [University site](https://unb.ca/)
+[THE](https://www.timeshighereducation.com/world-university-rankings/ferdowsi-university-mashhad),
+[QS](https://www.topuniversities.com/universities/ferdowsi-university-mashhad/),
+[USNWR](https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854) <br>
+• [University site](https://www.um.ac.ir/)

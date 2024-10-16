@@ -1,18 +1,18 @@
 ---
-title: "B.Sc. in Computer Engineering"
+title: "Master of Computer Science"
 collection: educations
-type: "Ferdowsi University of Mashhad"
-permalink: /educations/bachlor-of-science
-venue: "Mashhad"
-date: 2022-09-22
-location: "Iran"
+type: "University of New Brunswick"
+permalink: /educations/master-of-science
+venue: "Fredericton"
+date: 2025-09-01
+location: "Canada"
 ---
 
-• Last Two Year GPA: **19.32**/20 <br>
-• Total GPA(140 course units): **18.03**/20 <br>
+• GPA: **4.3**/4.3 <br>
 • One of the best universities in Iran <br>
 • University Rankings: 
-[THE](https://www.timeshighereducation.com/world-university-rankings/ferdowsi-university-mashhad),
-[QS](https://www.topuniversities.com/universities/ferdowsi-university-mashhad/),
-[USNWR](https://www.usnews.com/education/best-global-universities/ferdowsi-university-mashhad-502854) <br>
-• [University site](https://www.um.ac.ir/)
+[THE](https://www.timeshighereducation.com/world-university-rankings/university-new-brunswick-unb),
+[QS](https://www.topuniversities.com/university-new-brunswick/computer-science-mcsc),
+[USNWR](https://www.usnews.com/education/best-global-universities/university-of-new-brunswick-499973) <br>
+• [University site](https://unb.ca/)
+
