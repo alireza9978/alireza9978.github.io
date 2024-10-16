@@ -1,7 +1,7 @@
 ---
 title: "Filter Based Time-Series Anomaly Detection in AMI using AI Approaches"
 collection: publications
-permalink: /publication/2021-05-19-filter-based
+permalink: /publication/filter-based
 excerpt: 'This paper is about an anomaly detection algorithm in advanced metering infrastructure.'
 date: 2021-05-19
 venue: '2021 5th International Conference on Internet of Things and Applications (IoT)'
