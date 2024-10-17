@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "academicpages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Alireza Rahimi"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -8,8 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-I'm a bachelor's student of Computer Engineering at Ferdowsi University. Artificial Intelligence Researcher And Senior Android Developer Skilled in Python, Java, Linux, and developing Machine Learning and Deep Learning models.
+Master's Student in Computer Science | IoT & Machine Learning Researcher
 
-Currently, I am researching Missing Value Handling with deep learning models in power consumption. Also, I am the manager of the power consumption prediction project under the supervision of Dr. Yagmae Moghadam.
-
-I am interested in Machine learning and Deep learning.
+I am a graduate student at the University of New Brunswick, specializing in smart city applications, IoT, and machine learning. My research focuses on innovative solutions for real-world challenges, from water quality monitoring to fall detection systems for the elderly. With a passion for cutting-edge technology, I’ve developed frameworks that enhance efficiency, privacy, and sustainability in various domains. My goal is to drive impactful changes through data-driven insights and intelligent systems.
