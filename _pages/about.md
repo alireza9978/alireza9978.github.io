@@ -8,6 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-Master's Student in Computer Science | IoT & Machine Learning Researcher
+AI Researcher | M.Sc. Computer Science at UNB
 
-I am a graduate student at the University of New Brunswick, specializing in smart city applications, IoT, and machine learning. My research focuses on innovative solutions for real-world challenges, from water quality monitoring to fall detection systems for the elderly. With a passion for cutting-edge technology, I’ve developed frameworks that enhance efficiency, privacy, and sustainability in various domains. My goal is to drive impactful changes through data-driven insights and intelligent systems.
+I’m an AI Researcher and M.Sc. Computer Science student at the University of New Brunswick, focusing on machine learning, IoT, and robotics. At UNB’s AELab, I design and optimize intelligent systems, combining AI with real-world data to solve complex problems. My experience includes developing ML microservices, predictive models, and anomaly detection systems using Python, TensorFlow, and PyTorch. I’ve contributed to publications on fall detection, explainable health diagnostics, and federated learning. With a strong foundation in data preprocessing, model deployment, and interdisciplinary collaboration, I aim to apply AI in meaningful, scalable ways.
