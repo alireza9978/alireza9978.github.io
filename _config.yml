@@ -227,10 +227,10 @@ defaults:
       path: ""
       type: educations
     values:
-      layout: single
+      layout: single-edu
       author_profile: true
-      share: true
-      comments: true
+      share: false
+      comments: false
   # _publications
   - scope:
       path: ""
