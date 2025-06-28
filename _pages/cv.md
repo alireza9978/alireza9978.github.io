@@ -17,7 +17,11 @@ Education
 
 Work experience
 ======
-* 2020-Now: Undergraduate Research Assistant
+* 2022: AI Engineer
+  * Magical API Company
+  * I developed scalable AI web based services. The services  
+
+* 2020-2022: Undergraduate Research Assistant
   * Ferdowsi, Mashhad, Iran, IP-PBX Lab
   * I researched and developed several anomaly detection methods in power consumption data. 
   * I worked with a team on designing and developing an anomaly detection platform as a service. 
